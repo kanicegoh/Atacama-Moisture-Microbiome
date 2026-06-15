@@ -6,9 +6,9 @@ Bioinformatic and statistical analyses of microbial diversity across soil moistu
 
 1. Sequence preprocessing
 2. Primer removal using Cutadapt
-3. ASV inference using DADA2
+3. Quality filtering and ASV inference using DADA2
 4. Taxonomic assignment using SILVA v138.2
-5. Rarefaction
+5. Rarefaction and contaminant removal
 6. Alpha diversity analyses
 7. Statistical modelling
 8. Figure generation
